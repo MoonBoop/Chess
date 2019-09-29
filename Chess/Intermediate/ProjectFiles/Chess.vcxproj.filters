@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Chess.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{6335A646-76DE-4015-9F80-CF7537431ECD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Chess.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ChessEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{675D6445-E658-4185-8FA9-33280986C7F3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\Android">
+      <UniqueIdentifier>{D957AF81-3784-4EEA-8724-AC72218D5A6A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Android\AndroidEngine.ini">
+      <Filter>Config\Android</Filter>
+    </None>
+    <Filter Include="Config\IOS">
+      <UniqueIdentifier>{B6CB8E26-AF91-4D16-8618-E4CAA1FBE94E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\IOS\IOSEngine.ini">
+      <Filter>Config\IOS</Filter>
+    </None>
+    <Filter Include="Config\Linux">
+      <UniqueIdentifier>{5462BA6D-013C-4644-A48C-12020156B262}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Linux\LinuxEngine.ini">
+      <Filter>Config\Linux</Filter>
+    </None>
+    <Filter Include="Config\Mac">
+      <UniqueIdentifier>{84FDAD02-DC19-4F82-A6A4-CBE87409D760}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Mac\MacEngine.ini">
+      <Filter>Config\Mac</Filter>
+    </None>
+    <Filter Include="Config\PS4">
+      <UniqueIdentifier>{E440D71D-214D-43FD-8A2C-20AC751D3DB5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\PS4\PS4Engine.ini">
+      <Filter>Config\PS4</Filter>
+    </None>
+    <Filter Include="Config\Switch">
+      <UniqueIdentifier>{1EBF45A0-A4FF-4397-94A5-2E9E209F82CB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Switch\SwitchEngine.ini">
+      <Filter>Config\Switch</Filter>
+    </None>
+    <Filter Include="Config\Windows">
+      <UniqueIdentifier>{047F79CF-3410-4501-843B-FF8E2FE975D8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Windows\WindowsEngine.ini">
+      <Filter>Config\Windows</Filter>
+    </None>
+    <Filter Include="Config\XboxOne">
+      <UniqueIdentifier>{402CA19A-7D8E-4AC9-B538-7CDE48C1CEDF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\XboxOne\XboxOneEngine.ini">
+      <Filter>Config\XboxOne</Filter>
+    </None>
+    <Filter Include="Source\Chess">
+      <UniqueIdentifier>{8DB1A8B6-1AD4-4F00-8E39-44F711CD343A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Chess\Chess.Build.cs">
+      <Filter>Source\Chess</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Chess\Chess.cpp">
+      <Filter>Source\Chess</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Chess\Chess.h">
+      <Filter>Source\Chess</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Chess\ChessGameModeBase.cpp">
+      <Filter>Source\Chess</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Chess\ChessGameModeBase.h">
+      <Filter>Source\Chess</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

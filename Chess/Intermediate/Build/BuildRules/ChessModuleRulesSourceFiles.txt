@@ -1,0 +1,3 @@
+P:\GitHub\Chess-TDnD\Chess\Source\Chess\Chess.Build.cs
+P:\GitHub\Chess-TDnD\Chess\Source\Chess.Target.cs
+P:\GitHub\Chess-TDnD\Chess\Source\ChessEditor.Target.cs

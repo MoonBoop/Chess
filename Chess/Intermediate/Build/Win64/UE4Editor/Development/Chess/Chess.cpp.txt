@@ -1,0 +1,2 @@
+P:\GitHub\Chess-TDnD\Chess\Intermediate\Build\Win64\UE4Editor\Development\Chess\Definitions.Chess.h
+p:\github\chess-tdnd\chess\source\chess\Chess.h

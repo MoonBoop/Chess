@@ -1,0 +1,9 @@
+P:\GitHub\Chess-TDnD\Chess\Intermediate\Build\Win64\UE4Editor\Development\Chess\Definitions.Chess.h
+P:\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+P:\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+P:\GitHub\Chess-TDnD\Chess\Source\Chess/ChessGameModeBase.h
+P:\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+P:\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+P:\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+P:\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+p:\github\chess-tdnd\chess\intermediate\build\win64\ue4editor\inc\chess\ChessGameModeBase.generated.h
